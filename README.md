@@ -1,3 +1,5 @@
-# field-aligned-current
-This is a programme to compute field-aligned current on the earth  
-You need use matlab to run this programme.
+# 地球磁层中赤道平面上场向电流的计算
+本代码通过matlab程序，实现了对地球上赤道平面上场向电流的计算。
+## 使用说明  
+运行zip包中的project_main.m文件，你可以选择使用EULER或RK4方法，一般而言，RK4方法将更加精确。  
+
